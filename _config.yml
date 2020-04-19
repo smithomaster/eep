@@ -42,6 +42,8 @@ collections:
     output: true
     permalink: /:year/:month/:day/:slug
 
+remote_theme: "dracula/gh-pages"
+
 defaults:
   -
     scope:
